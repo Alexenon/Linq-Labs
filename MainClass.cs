@@ -11,8 +11,10 @@ namespace ConsoleApp
         {
             //Lab_1.mainMethod();
             //Lab_2.mainMethod();
-            Lab_3.mainMethod();
+            //Lab_3.mainMethod();
             //Lab_4.mainMethod();
+            //Lab_5.mainMethod();
+            Lab_6.mainMethod();
         }
 
 
